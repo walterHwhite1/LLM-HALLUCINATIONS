@@ -1,4 +1,5 @@
 import streamlit as st
+import random
 from pipeline import detect_hallucinations
 
 st.set_page_config(page_title="Hallucination Detector", page_icon="🔍", layout="wide")
