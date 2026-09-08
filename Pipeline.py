@@ -10,6 +10,7 @@ Final verdict is decided by combining all three signals.
 """
 
 import re
+import pandas as pd
 import os
 import json
 import requests
