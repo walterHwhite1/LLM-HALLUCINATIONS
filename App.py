@@ -1,5 +1,5 @@
 import os
-import streamlit as st
+import streamlit as s
 from dotenv import load_dotenv
 from pipeline import detect_hallucinations
  
